@@ -14,8 +14,7 @@
 - 🎯 Expanding into **Data Science**, **Machine Learning**, and **AI Engineering**.
 - 📚 Lifelong learner, currently diving deeper into AI model deployment and MLOps.
 - 💬 Ask me about Cloud Architecture, CI/CD, MLOps, and building end-to-end AI systems.
-- 📫 Reach me at: [your-email@example.com]
-- 🌐 Visit my portfolio website: (optional if you have one) 🌟
+- 📫 Reach me at: analonelson@gmail.com
 
 ---
 
@@ -57,15 +56,6 @@
 </p>
 
 ---
-
-## ✍️ Latest Blog Posts / Articles (optional)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog or plan to write articles later -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <div align="center">
   <h3>Let's Connect!</h3>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
