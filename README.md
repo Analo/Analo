@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! 👋 I'm Analo</h1>
-<h3 align="center">Software Engineer | Cloud & DevOps Engineer | Aspiring Data Scientist & AI Engineer 🚀</h3>
+<h1 align="center">Hello! I'm Analo</h1>
+<h3 align="center">Software Engineer | Cloud DevOps Engineer | Aspiring ML & AI Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Analo&label=Profile%20views&color=0e75b6&style=flat" alt="Analo" />
@@ -9,12 +9,12 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 Passionate about building scalable software, automating cloud infrastructure, and exploring AI/ML innovations.
-- 🌍 Currently working as a **Cloud DevOps Engineer** — Terraform, Kubernetes, Ansible, AWS/GCP.
-- 🎯 Expanding into **Data Science**, **Machine Learning**, and **AI Engineering**.
-- 📚 Lifelong learner, currently diving deeper into AI model deployment and MLOps.
-- 💬 Ask me about Cloud Architecture, CI/CD, MLOps, and building end-to-end AI systems.
-- 📫 Reach me at: analonelson@gmail.com
+- Passionate about building scalable software, automating cloud infrastructure, and exploring AI/ML innovations.
+- Currently working as a **Cloud DevOps Engineer** — For an International NGO.
+- Expanding into **Data Science**, **Machine Learning**, and **AI Engineering**.
+- Lifelong learner, currently diving deeper into AI model deployment and MLOps.
+- Ask me about Cloud Architecture, CI/CD, MLOps, and building end-to-end AI systems.
+- Reach me at: analonelson@gmail.com
 
 ---
 
