@@ -22,29 +22,11 @@
 
 | Category | Link |
 | :--- | :--- |
-| 👨‍💻 [Software Engineering Projects](#-software-engineering-projects) |
-| ☁️ [Cloud/DevOps Engineering Projects](#-clouddevops-engineering-projects) |
-| 📊 [Data Science Projects](#-data-science-projects) |
-| 🤖 [Machine Learning Projects](#-machine-learning-projects) |
-| 🧠 [AI Engineering Projects](#-ai-engineering-projects) |
-
----
-
-## 👨‍💻 Software Engineering Projects
-- [nemslinklocaldev](https://github.com/Analo/nemslinklocaldev) – Local dev setup for NEMS project
-- [Analo](https://github.com/Analo/Analo) – Personal GitHub profile README
-
-## ☁️ Cloud/DevOps Engineering Projects
-*(Add your repos here when ready, e.g., Terraform, Ansible, CI/CD, AWS scripts, etc.)*
-
-## 📊 Data Science Projects
-- [Data-Analysis-Projects](https://github.com/Analo/Data-Analysis-Projects) – My data analysis learning journey
-
-## 🤖 Machine Learning Projects
-- [Intro-MachineLearning](https://github.com/Analo/Intro-MachineLearning) – Introduction to Machine Learning with Python O'Reilly practicals
-
-## 🧠 AI Engineering Projects
-- [LLMs-from-scratch](https://github.com/Analo/LLMs-from-scratch) – Experiments building language models from scratch
+| 👨‍💻 [Software Engineering Projects](https://github.com/Analo?tab=repositories&q=Software-Engineering&type=&language=&sort=) |
+| ☁️ [Cloud/DevOps Engineering Projects](https://github.com/Analo?tab=repositories&q=Cloud-DevOps&type=&language=&sort=) |
+| 📊 [Data Science Projects](https://github.com/Analo?tab=repositories&q=Data-Science&type=&language=&sort=) |
+| 🤖 [Machine Learning Projects](https://github.com/Analo?tab=repositories&q=Machine-Learning&type=&language=&sort=) |
+| 🧠 [AI Engineering Projects](https://github.com/Analo?tab=repositories&q=AI-Engineering&type=&language=&sort=) |
 
 ---
 
@@ -74,11 +56,11 @@
 </p>
 
 ---
-
 <div align="center">
   <h3>Let's Connect!</h3>
-  <a href="mailto:analonelson@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Optional: Add Twitter or Medium or personal website -->
 </div>
 
 
