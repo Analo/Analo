@@ -30,6 +30,22 @@
 
 ---
 
+## 👨‍💻 Software Engineering Projects
+
+## ☁️ Cloud/DevOps Engineering Projects
+- [AWS-DevOps-Engineers](https://github.com/Analo/AWS-DevOps-Engineers) – A curated hands-on learning path for DevOps Engineers using AWS, covering real-world tools and pipelines.
+
+## 📊 Data Science Projects
+- [Data-Analysis-Projects](https://github.com/Analo/Data-Analysis-Projects) – My data analysis learning journey
+
+## 🤖 Machine Learning Projects
+- [Intro-MachineLearning](https://github.com/Analo/Intro-MachineLearning) – Introduction to Machine Learning with Python O'Reilly practicals
+
+## 🧠 AI Engineering Projects
+- [LLMs-from-scratch](https://github.com/Analo/LLMs-from-scratch) – Experiments building language models from scratch
+
+---
+
 ## 🛠️ Technologies and Tools
 
 <div align="center">
