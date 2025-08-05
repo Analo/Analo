@@ -20,7 +20,7 @@
 
 ## 🧩 My Project Categories
 
-| Category | Link |
+| Category |
 | :--- | :--- |
 | 👨‍💻 [Software Engineering Projects](https://github.com/Analo?tab=repositories&q=Software-Engineering&type=&language=&sort=) 
 | ☁️ [Cloud/DevOps Engineering Projects](https://github.com/Analo?tab=repositories&q=Cloud-DevOps&type=&language=&sort=) 
@@ -32,16 +32,16 @@
 
 ## 👨‍💻 Software Engineering Projects
 
-## ☁️ Cloud/DevOps Engineering Projects
+### ☁️ Cloud/DevOps Engineering Projects
 - [AWS-DevOps-Engineers](https://github.com/Analo/AWS-DevOps-Engineers) – A curated hands-on learning path for DevOps Engineers using AWS, covering real-world tools and pipelines.
 
-## 📊 Data Science Projects
+### 📊 Data Science Projects
 - [Data-Analysis-Projects](https://github.com/Analo/Data-Analysis-Projects) – My data analysis learning journey
 
-## 🤖 Machine Learning Projects
+### 🤖 Machine Learning Projects
 - [Intro-MachineLearning](https://github.com/Analo/Intro-MachineLearning) – Introduction to Machine Learning with Python O'Reilly practicals
 
-## 🧠 AI Engineering Projects
+### 🧠 AI Engineering Projects
 - [LLMs-from-scratch](https://github.com/Analo/LLMs-from-scratch) – Experiments building language models from scratch
 
 ---
