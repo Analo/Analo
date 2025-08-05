@@ -20,7 +20,7 @@
 
 ## 🧩 My Project Categories
 
-| Category | |
+| Category | Link|
 | :--- | :--- |
 | 👨‍💻 [Software Engineering Projects](https://github.com/Analo?tab=repositories&q=Software-Engineering&type=&language=&sort=) 
 | ☁️ [Cloud/DevOps Engineering Projects](https://github.com/Analo?tab=repositories&q=Cloud-DevOps&type=&language=&sort=) 
@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 Software Engineering Projects
+### 👨‍💻 Software Engineering Projects
 
 ### ☁️ Cloud/DevOps Engineering Projects
 - [AWS-DevOps-Engineers](https://github.com/Analo/AWS-DevOps-Engineers) – A curated hands-on learning path for DevOps Engineers using AWS, covering real-world tools and pipelines.
