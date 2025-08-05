@@ -22,11 +22,11 @@
 
 | Category | Link |
 | :--- | :--- |
-| 👨‍💻 [Software Engineering Projects](https://github.com/Analo?tab=repositories&q=Software-Engineering&type=&language=&sort=) |
-| ☁️ [Cloud/DevOps Engineering Projects](https://github.com/Analo?tab=repositories&q=Cloud-DevOps&type=&language=&sort=) |[AWS-DevOps-Engineers](https://github.com/Analo/AWS-DevOps-Engineers)
-| 📊 [Data Science Projects](https://github.com/Analo?tab=repositories&q=Data-Science&type=&language=&sort=) | [Data-Analysis-Projects](https://github.com/Analo/Data-Analysis-Projects) 
-| 🤖 [Machine Learning Projects](https://github.com/Analo?tab=repositories&q=Machine-Learning&type=&language=&sort=) | [Intro-MachineLearning](https://github.com/Analo/Intro-MachineLearning) | [LLMs-from-scratch](https://github.com/Analo/LLMs-from-scratch) 
-| 🧠 [AI Engineering Projects](https://github.com/Analo?tab=repositories&q=AI-Engineering&type=&language=&sort=) | [LLMs-from-scratch](https://github.com/Analo/LLMs-from-scratch)
+| 👨‍💻 [Software Engineering Projects](https://github.com/Analo?tab=repositories&q=Software-Engineering&type=&language=&sort=) 
+| ☁️ [Cloud/DevOps Engineering Projects](https://github.com/Analo?tab=repositories&q=Cloud-DevOps&type=&language=&sort=) 
+| 📊 [Data Science Projects](https://github.com/Analo?tab=repositories&q=Data-Science&type=&language=&sort=) 
+| 🤖 [Machine Learning Projects](https://github.com/Analo?tab=repositories&q=Machine-Learning&type=&language=&sort=)
+| 🧠 [AI Engineering Projects](https://github.com/Analo?tab=repositories&q=AI-Engineering&type=&language=&sort=)
 
 ---
 
