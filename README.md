@@ -20,7 +20,7 @@
 
 ## 🧩 My Project Categories
 
-| Category |
+| Category | |
 | :--- | :--- |
 | 👨‍💻 [Software Engineering Projects](https://github.com/Analo?tab=repositories&q=Software-Engineering&type=&language=&sort=) 
 | ☁️ [Cloud/DevOps Engineering Projects](https://github.com/Analo?tab=repositories&q=Cloud-DevOps&type=&language=&sort=) 
