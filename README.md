@@ -79,11 +79,25 @@ Click any category below to explore the projects:
 
 ---
 
+## 📊 Most Used Languages & Skills
+
+> Languages I use daily across backend, frontend, and infrastructure work.
+
+| Language / Tool | Primary Use | Proficiency |
+| :--- | :--- | :--- |
+| 🐍 Python | Backend APIs, scripting, ML pipelines | `████████████████████` Expert |
+| 🟦 TypeScript / Next.js | Frontend & full-stack web applications | `████████████████░░░░` Advanced |
+| 🟪 HCL (Terraform) | Cloud infra provisioning & deprovisioning | `████████████████░░░░` Advanced |
+| 🟧 Bash / Shell | Automation, CI/CD scripts, Linux admin | `██████████████░░░░░░` Proficient |
+| 🟨 YAML | Pipeline definitions, IaC config, K8s manifests | `██████████████░░░░░░` Proficient |
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Analo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Analo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analo&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analo&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide=Jupyter%20Notebook&exclude_repo=Data_Science,Analo" alt="Top Languages (public repos)" />
 </p>
 
 <p align="center">
