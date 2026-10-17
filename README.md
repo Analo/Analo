@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Cloud DevOps Engineer | ML & AI Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Analo&label=Profile%20views&color=0e75b6&style=flat" alt="Analo" />
+  <img src="https://komarev.com/ghpvc/?username=Analo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ Click any category below to explore the projects:
 **Languages**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
 </div>
@@ -86,7 +86,7 @@ Click any category below to explore the projects:
 | Language / Tool | Primary Use | Proficiency |
 | :--- | :--- | :--- |
 | 🐍 Python | Backend APIs, scripting, ML pipelines | `████████████████████` Expert |
-| 🟦 JavaScript / TypeScript / Next.js | Frontend & full-stack web applications | `████████████████░░░░` Advanced |
+| 🟦 JavaScript | Frontend & full-stack web applications | `████████████████░░░░` Advanced |
 | 🟪 HCL (Terraform) | Cloud infra provisioning & deprovisioning | `████████████████████` Expert |
 | 🟧 Bash / Shell | Automation, CI/CD scripts, Linux admin | `████████████████████` Expert |
 | 🟨 YAML | Pipeline definitions, IaC config, K8s manifests | `████████████████████` Expert |
