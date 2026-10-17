@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Analo</h1>
-<h3 align="center">Software Engineer | Cloud DevOps Engineer | ML & AI Engineer 🚀</h3>
+<h3 align="center">Software Engineer | Cloud DevOps Engineer | ML & AI Engineer</h3>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
 - Passionate about building scalable software, automating cloud infrastructure, and exploring AI/ML innovations.
 - Currently working as a **Cloud DevOps Engineer** — For an International NGO.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧩 My Project Categories
+## 🗂️ Project Portfolio
 
 Click any category below to explore the projects:
 
@@ -22,13 +22,13 @@ Click any category below to explore the projects:
 | :--- | :--- |
 | 👨‍💻 [Software Engineering Projects](./software-engineering/) | APIs, full-stack apps, and production-ready systems |
 | ☁️ [Cloud/DevOps Engineering Projects](./cloud-devops/) | AWS infrastructure, IaC, CI/CD pipelines, and platform engineering |
-| 📊 [Data Science Projects](./data-science/) | EDA, data wrangling, visualization, and real-world dataset analysis |
-| 🤖 [Machine Learning Projects](./machine-learning/) | End-to-end ML pipelines, model training, evaluation, and MLOps |
+| 🔬 [Data Science Projects](./data-science/) | EDA, data wrangling, visualization, and real-world dataset analysis |
+| ⚡ [Machine Learning Projects](./machine-learning/) | End-to-end ML pipelines, model training, evaluation, and MLOps |
 | 🧠 [AI Engineering Projects](./ai-engineering/) | LLMs, RAG systems, AI agents, and applied AI applications |
 
 ---
 
-## 🛠️ Technologies and Tools
+## ⚙️ Technologies and Tools
 
 **Languages**
 <div align="center">
@@ -75,17 +75,17 @@ Click any category below to explore the projects:
 
 ---
 
-## 📊 Most Used Languages & Skills
+## 🎯 Most Used Languages & Skills
 
 > Languages I use daily across backend, frontend, and infrastructure work.
 
 | Language / Tool | Primary Use | Proficiency |
 | :--- | :--- | :--- |
 | 🐍 Python | Backend APIs, scripting, ML pipelines | `████████████████████` Expert |
-| 🟦 JavaScript | Frontend & full-stack web applications | `████████████████░░░░` Advanced |
-| 🟪 HCL (Terraform) | Cloud infra provisioning & deprovisioning | `████████████████████` Expert |
-| 🟧 Bash / Shell | Automation, CI/CD scripts, Linux admin | `████████████████████` Expert |
-| 🟨 YAML | Pipeline definitions, IaC config, K8s manifests | `████████████████████` Expert |
+| 🌐 JavaScript | Frontend & full-stack web applications | `████████████████░░░░` Advanced |
+| 🏗️ HCL (Terraform) | Cloud infra provisioning & deprovisioning | `████████████████████` Expert |
+| 💻 Bash / Shell | Automation, CI/CD scripts, Linux admin | `████████████████████` Expert |
+| 📄 YAML | Pipeline definitions, IaC config, K8s manifests | `████████████████████` Expert |
 | 🗄️ SQL (PostgreSQL / MySQL) | Relational database design, queries & optimisation | `████████████████████` Expert |
 
 ---
