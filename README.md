@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Analo</h1>
-<h3 align="center">Software Engineer | Cloud DevOps Engineer | Aspiring ML & AI Engineer 🚀</h3>
+<h3 align="center">Software Engineer | Cloud DevOps Engineer | ML & AI Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Analo&label=Profile%20views&color=0e75b6&style=flat" alt="Analo" />
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - Passionate about building scalable software, automating cloud infrastructure, and exploring AI/ML innovations.
-- Currently working as a **Cloud DevOps Engineer** — For an International NGO.
+- Currently working as a **Cloud DevOps Engineer** — For an International NGO (IUCN).
 - Expanding into **Data Science**, **Machine Learning**, and **AI Engineering**.
 - Lifelong learner, currently diving deeper into AI model deployment and MLOps.
 - Ask me about Cloud Architecture, CI/CD, MLOps, and building end-to-end AI systems.
@@ -20,29 +20,15 @@
 
 ## 🧩 My Project Categories
 
-| Category | Link|
+Click any category below to explore the projects:
+
+| Category | Description |
 | :--- | :--- |
-| 👨‍💻 [Software Engineering Projects](https://github.com/Analo?tab=repositories&q=Software-Engineering&type=&language=&sort=) 
-| ☁️ [Cloud/DevOps Engineering Projects](https://github.com/Analo?tab=repositories&q=Cloud-DevOps&type=&language=&sort=) 
-| 📊 [Data Science Projects](https://github.com/Analo?tab=repositories&q=Data-Science&type=&language=&sort=) 
-| 🤖 [Machine Learning Projects](https://github.com/Analo?tab=repositories&q=Machine-Learning&type=&language=&sort=)
-| 🧠 [AI Engineering Projects](https://github.com/Analo?tab=repositories&q=AI-Engineering&type=&language=&sort=)
-
----
-
-### 👨‍💻 Software Engineering Projects
-
-### ☁️ Cloud/DevOps Engineering Projects
-- [AWS-DevOps-Engineers](https://github.com/Analo/AWS-DevOps-Engineers) – A curated hands-on learning path for DevOps Engineers using AWS, covering real-world tools and pipelines.
-
-### 📊 Data Science Projects
-- [Data-Analysis-Projects](https://github.com/Analo/Data-Analysis-Projects) – My data analysis learning journey
-
-### 🤖 Machine Learning Projects
-- [Intro-MachineLearning](https://github.com/Analo/Intro-MachineLearning) – Introduction to Machine Learning with Python O'Reilly practicals
-
-### 🧠 AI Engineering Projects
-- [LLMs-from-scratch](https://github.com/Analo/LLMs-from-scratch) – Experiments building language models from scratch
+| 👨‍💻 [Software Engineering Projects](./software-engineering/) | APIs, full-stack apps, and production-ready systems |
+| ☁️ [Cloud/DevOps Engineering Projects](./cloud-devops/) | AWS infrastructure, IaC, CI/CD pipelines, and platform engineering |
+| 📊 [Data Science Projects](./data-science/) | EDA, data wrangling, visualization, and real-world dataset analysis |
+| 🤖 [Machine Learning Projects](./machine-learning/) | End-to-end ML pipelines, model training, evaluation, and MLOps |
+| 🧠 [AI Engineering Projects](./ai-engineering/) | LLMs, RAG systems, AI agents, and applied AI applications |
 
 ---
 
@@ -72,12 +58,10 @@
 </p>
 
 ---
+
 <div align="center">
   <h3>Let's Connect!</h3>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:analonelson@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- Optional: Add Twitter or Medium or personal website -->
+  <a href="https://x.com/NelsonNyabs"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </div>
-
-
-
