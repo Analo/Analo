@@ -86,10 +86,11 @@ Click any category below to explore the projects:
 | Language / Tool | Primary Use | Proficiency |
 | :--- | :--- | :--- |
 | 🐍 Python | Backend APIs, scripting, ML pipelines | `████████████████████` Expert |
-| 🟦 TypeScript / Next.js | Frontend & full-stack web applications | `████████████████░░░░` Advanced |
+| 🟦 JavaScript / TypeScript / Next.js | Frontend & full-stack web applications | `████████████████░░░░` Advanced |
 | 🟪 HCL (Terraform) | Cloud infra provisioning & deprovisioning | `████████████████████` Expert |
 | 🟧 Bash / Shell | Automation, CI/CD scripts, Linux admin | `████████████████████` Expert |
 | 🟨 YAML | Pipeline definitions, IaC config, K8s manifests | `████████████████████` Expert |
+| 🗄️ SQL (PostgreSQL / MySQL) | Relational database design, queries & optimisation | `████████████████████` Expert |
 
 ---
 
