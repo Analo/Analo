@@ -87,9 +87,9 @@ Click any category below to explore the projects:
 | :--- | :--- | :--- |
 | 🐍 Python | Backend APIs, scripting, ML pipelines | `████████████████████` Expert |
 | 🟦 TypeScript / Next.js | Frontend & full-stack web applications | `████████████████░░░░` Advanced |
-| 🟪 HCL (Terraform) | Cloud infra provisioning & deprovisioning | `████████████████░░░░` Advanced |
-| 🟧 Bash / Shell | Automation, CI/CD scripts, Linux admin | `██████████████░░░░░░` Proficient |
-| 🟨 YAML | Pipeline definitions, IaC config, K8s manifests | `██████████████░░░░░░` Proficient |
+| 🟪 HCL (Terraform) | Cloud infra provisioning & deprovisioning | `████████████████████` Expert |
+| 🟧 Bash / Shell | Automation, CI/CD scripts, Linux admin | `████████████████████` Expert |
+| 🟨 YAML | Pipeline definitions, IaC config, K8s manifests | `████████████████████` Expert |
 
 ---
 
