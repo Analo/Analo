@@ -21,7 +21,7 @@ These projects focus on **backend development**, **system design**, and **produc
 
 ## Projects
 
-> Projects coming soon. Currently focused on Cloud/DevOps and AI Engineering.
+> Projects coming soon. Check back regularly!
 
 ---
 
