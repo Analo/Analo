@@ -21,11 +21,7 @@ These projects focus on **backend development**, **system design**, and **produc
 
 ## Projects
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| [iucn-protracker-demo](https://github.com/Analo/iucn-protracker-demo) | Premium Procurement Tracking System for IUCN — manages procurement workflows end-to-end | TypeScript, Node.js | Active |
-
-> More projects coming soon. Check back regularly!
+> Projects coming soon. Currently focused on Cloud/DevOps and AI Engineering.
 
 ---
 
