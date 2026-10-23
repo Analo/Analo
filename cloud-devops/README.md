@@ -24,7 +24,8 @@ These projects demonstrate my expertise in **cloud architecture**, **infrastruct
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [scalable-ecommerce](https://github.com/Analo/scalable-ecommerce) | Production-ready multi-tier e-commerce platform on AWS — VPC, EC2 Auto Scaling, RDS Multi-AZ, CloudFront, CloudWatch, full CI/CD | Terraform, AWS | Active |
+| [scalable-ecommerce](https://github.com/Analo/scalable-ecommerce) | Production-ready multi-tier e-commerce platform on AWS — VPC, EC2 Auto Scaling, RDS Multi-AZ, CloudFront, CloudWatch, full CI/CD | Terraform, AWS EC2/RDS/ALB/CloudFront | Active |
+| [order-pipeline](https://github.com/Analo/order-pipeline) | Event-driven order processing pipeline — API Gateway → Lambda → SQS → DynamoDB with idempotency guarantees, DLQ failure isolation, and CloudWatch observability. Includes live deploy evidence and ADRs. | Terraform, AWS API Gateway/Lambda/SQS/DynamoDB | Active |
 | [AWS-DevOps-Engineers](https://github.com/Analo/AWS-DevOps-Engineers) | Curated hands-on learning path for DevOps Engineers using AWS — covers real-world tools and pipelines | Python, AWS, Ansible | Active |
 
 > More projects coming soon. Check back regularly!
